@@ -1,6 +1,1 @@
-Привет
-Clone
-Ghbdtn //
-True
-and
-
+До свидания
